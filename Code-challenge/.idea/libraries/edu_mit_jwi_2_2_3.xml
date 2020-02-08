@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="edu.mit.jwi_2.2.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/ideas/chapter_2c_codes_%2c_/edu.mit.jwi_2.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ideas/chapter_2c_codes_%2c_/edu.sussex.nlp.jws.beta.11.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/new jena/xml-apis-1.4.01.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/new jena/xercesImpl-2.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/new jena/slf4j-log4j12-1.7.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/new jena/slf4j-api-1.7.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/new jena/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/new jena/jena-iri-1.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/new jena/jena-core-2.12.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jena-arq-2.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
